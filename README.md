@@ -1,5 +1,7 @@
 # Alamelu Krishnan's Works
 
+Copyright 2023 Alamelu Krishnan
+
 ## Biography
 
 <img src="images/alamelu-krishnan-photo.jpg" width="100">
