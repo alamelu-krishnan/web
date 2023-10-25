@@ -1,8 +1,12 @@
 # Alamelu Krishnan's Literary Works
 
-This is a work in progress. I plan to update this page with links to all my works gradually.
+![Alamelu Krishnan](images/alamelu-krishnan-photo.jpg)
+
+This website is a work in progress. I plan to update this page with links to my works gradually.
 
 ## Awards
+
+  1. Sauhard Samman, Uttar Pradesh Hindi Sansthan, 2019
 
 ## Translations
 ### Samskrutam to Tamil
