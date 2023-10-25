@@ -1,6 +1,6 @@
 # Alamelu Krishnan's Literary Works
 
-![Alamelu Krishnan](images/alamelu-krishnan-photo.jpg)
+<img src="images/alamelu-krishnan-photo.jpg" width="200">
 
 This website is a work in progress. I plan to update this page with links to my works gradually.
 
