@@ -1,4 +1,4 @@
-# Alamelu Krishnan's Literary Works
+## Biography
 
 <img src="images/alamelu-krishnan-photo.jpg" width="100">
 
