@@ -20,7 +20,7 @@ This website is a work in progress. I plan to update this page with links to my 
 
 ### Tamil to Hindi
 
-  1. Translator: Alamelu Krishnan, "रसोई घर," Hindi Prachar Samachar, August 2023, Pages 14-18 (Original work: "நம் சமையலறையில்", Author: T.K. Tamil Bharatan) [[PDF]]files/08AugustSamachar 2023.pdf)
+  1. Translator: Alamelu Krishnan, "रसोई घर," Hindi Prachar Samachar, August 2023, Pages 14-18 (Original work: "நம் சமையலறையில்", Author: T.K. Tamil Bharatan) [[PDF]](files/08AugustSamachar 2023.pdf)
   1. Translator: Alamelu Krishnan, "वंडर बलून," Hindi Prachar Samachar, May 2023, Pages 18-20 (Original work: "ஒண்டர் பலூன்", Author: R. Jasyalakshmi) [[PDF]](files/05May2023Samachar.pdf)
      
 
