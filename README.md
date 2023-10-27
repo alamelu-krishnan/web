@@ -38,5 +38,18 @@ Smt. Alamelu Krishnan holds Masters degrees in Hindi, Samskrutam, and Education.
   1. Translator: Alamelu Krishnan, "अभिलाषा की पूर्ति," in 21 श्रेष्ठ बालमन की कहानियाँ तमिलनाडु Editor: Rochika Arun Sharma, 2022, Pages 29-32 (Original Work: "ஆசை நிறைவேறியது," Author: Alamelu Krishnan) [[Buy]](https://idealbookdepot.com/product/21-shreshth-balman-ki-kahaniyan-tamilnadu/)
   1. Translator: Alamelu Krishnan, "क्या गिंडी स्टेशन आ गया?" in 21 श्रेष्ठ बालमन की कहानियाँ तमिलनाडु Editor: Rochika Arun Sharma, 2022, Pages 42-44 (Original Work: "கிண்டி வந்தாச்சா,", Author: C. Sukumaran) [[Buy]](https://idealbookdepot.com/product/21-shreshth-balman-ki-kahaniyan-tamilnadu/)
 
-     
+## Original Works and Anthologies
+### Tamil
+  
+  1. Alamelu Krishnan, இந்தி எளிதில் எழுத படிக்க Stages I - II, Unique Media Integrators, Chennai, 2015 
+  1. Alamelu Krishnan, கல்வியா செல்வமா, Thamarai Publications Pvt. Ltd., Chennai, 2014
+  1. Alamelu Krishnan, ஒன்றுபட்டால் உண்டு வாழ்வு, Arivu Pathippagam, Chennai, 2010
+  1. Alamelu Krishnan, வாங்க தமிழ் பேசலாம் (Tamil Speaking through Hindi and English), Shabari Book House, Salem, 201X
+ 
+### Hindi
 
+  1.  Alamelu Krishnan, शिशु गीत (with Tamil and English transliterations), Unique Media Publications, Chennai, 2014
+  1.  Alamelu Krishnan, हिन्दी रचना कौमुदी, Rashtra Bhasha Samsthan, Thiruvananthapuram, republished 2008
+
+
+    
