@@ -6,11 +6,14 @@ Copyright 2023 Alamelu Krishnan
 
 <img src="images/alamelu-krishnan-photo.jpg" width="100">
 
-This website is a work in progress. I plan to update this page with links to my works gradually.
+Smt. Alamelu Krishnan holds Masters degrees in Hindi, Samskrutam, and Education. She is a retired teacher who served as the Head of the Departments of Hindi and Sanskrit at S.B.O.A Matriculation and Higher Secondary School, Anna Nagar, Chennai. She is an award-winning translator who works across Samskrutam, Hindi, Tamil, Malayalam, and English. Her works have been published by the Sahitya Akademi, New Century Book House, and other publishers. Her stories and articles have been published in Vagarth, Nalli Disai Ettum, Samanvaya Dakshin, Hindi Prachar Samachar, Shabari Siksha Samachar, Amman Darshanam, Sahitya Sethu, and other magazines.
 
 ## Awards
 
-  1. Sauhard Samman, Uttar Pradesh Hindi Sansthan, 2019
+  1. Sauhard Samman, Uttar Pradesh Hindi Sansthan, Lucknow, Uttar Pradesh, 2019
+  1. Dr. Gargi Gupta AnuvadSri Award, Akhil Bharatiya Anuvad Parishad, New Delhi
+  1. Translation Award, Nalli Disai Ettum, Chennai, Tamilnadu, 2011 (for Kundril Itta Thee)
+  1. Best Teacher Award, S.B.I.O.A Educational Trust, Chennai, Tamilnadu
 
 ## Translations
 ### Samskrutam to Tamil
@@ -32,8 +35,8 @@ This website is a work in progress. I plan to update this page with links to my 
   1. Translator: Alamelu Krishnan, "संगीत विद्वान और अन्य कहानियाँ" 2019 (Original Work: "மாலனின் கதைகள்," Author: Shri Malan Narayanan) [[Buy]](https://www.flipkart.com/sangeet-vidwaan/p/itmfe9ygybfanrdy?pid=9788170104414&lid=LSTBOK9788170104414MPLGVV&marketplace=FLIPKART&cmpid=content_book_8965229628_gmc)
   1. Translator: Alamelu Krishnan, "निजी पहचान चिन्ह" in 21 श्रेष्ठ नारीमन की कहानियाँ तमिलनाडु Editor: Rochika Arun Sharma, 2022, Pages 13-21 (Original Work: "," Author: A. Vennila) [[Buy]](https://www.flipkart.com/21-shreshth-naariman-ki-kahaniyan/p/itmbeacca5f62956)
   1. Translator: Alamelu Krishnan, "अन्तादि" in 21 श्रेष्ठ नारीमन की कहानियाँ तमिलनाडु Editor: Rochika Arun Sharma, 2022, Pages 78-83 (Original Work: "அந்தாதி," Author: R. Krishnaveni) [[Buy]](https://www.flipkart.com/21-shreshth-naariman-ki-kahaniyan/p/itmbeacca5f62956)
-  1. Translator: Alamelu Krishnan, "अभिलाषा की पूर्ति," in 21 श्रेष्ठ बालमन की कहानियाँ तमिलनाडु Editor: Rochika Arun Sharma, 2022, Pages 29-32 (Original Work: "," Author: Alamelu Krishnan) [[Buy]](https://idealbookdepot.com/product/21-shreshth-balman-ki-kahaniyan-tamilnadu/)
-  1. Translator: Alamelu Krishnan, "क्या गिंडी स्टेशन आ गया?" in 21 श्रेष्ठ बालमन की कहानियाँ तमिलनाडु Editor: Rochika Arun Sharma, 2022, Pages 42-44 (Original Work: ",", Author: C. Sukumaran) [[Buy]](https://idealbookdepot.com/product/21-shreshth-balman-ki-kahaniyan-tamilnadu/)
+  1. Translator: Alamelu Krishnan, "अभिलाषा की पूर्ति," in 21 श्रेष्ठ बालमन की कहानियाँ तमिलनाडु Editor: Rochika Arun Sharma, 2022, Pages 29-32 (Original Work: "ஆசை நிறைவேறியது," Author: Alamelu Krishnan) [[Buy]](https://idealbookdepot.com/product/21-shreshth-balman-ki-kahaniyan-tamilnadu/)
+  1. Translator: Alamelu Krishnan, "क्या गिंडी स्टेशन आ गया?" in 21 श्रेष्ठ बालमन की कहानियाँ तमिलनाडु Editor: Rochika Arun Sharma, 2022, Pages 42-44 (Original Work: "கிண்டி வந்தாச்சா,", Author: C. Sukumaran) [[Buy]](https://idealbookdepot.com/product/21-shreshth-balman-ki-kahaniyan-tamilnadu/)
 
      
 
