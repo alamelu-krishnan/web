@@ -6,12 +6,8 @@ Copyright 2023 Alamelu Krishnan
 
 <table>
   <tr>
-    <td width=150>
-      <img src="images/alamelu-krishnan-photo.jpg" />
-    </td>
-    <td>
-Smt. Alamelu Krishnan holds Masters degrees in Hindi, Samskrutam, and Education. She is a retired teacher who served as the Head of the Departments of Hindi and Sanskrit at S.B.O.A Matriculation and Higher Secondary School, Anna Nagar, Chennai. She is an award-winning translator who works across Samskrutam, Hindi, Tamil, Malayalam, and English. Her works have been published by the Sahitya Akademi, New Century Book House, and other publishers. Her stories and articles have been published in Vagarth, Nalli Disai Ettum, Samanvaya Dakshin, Hindi Prachar Samachar, Shabari Siksha Samachar, Amman Darshanam, Sahitya Sethu, and other magazines.
-    </td>
+    <td width=150><img src="images/alamelu-krishnan-photo.jpg" /></td>
+    <td align=left>Smt. Alamelu Krishnan holds Masters degrees in Hindi, Samskrutam, and Education. She is a retired teacher who served as the Head of the Departments of Hindi and Sanskrit at S.B.O.A Matriculation and Higher Secondary School, Anna Nagar, Chennai. She is an award-winning translator who works across Samskrutam, Hindi, Tamil, Malayalam, and English. Her works have been published by the Sahitya Akademi, New Century Book House, and other publishers. Her stories and articles have been published in Vagarth, Nalli Disai Ettum, Samanvaya Dakshin, Hindi Prachar Samachar, Shabari Siksha Samachar, Amman Darshanam, Sahitya Sethu, and other magazines.</td>
   </tr>
 </table>
 
