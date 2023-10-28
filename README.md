@@ -44,7 +44,7 @@ Smt. Alamelu Krishnan holds Masters degrees in Hindi, Samskrutam, and Education.
   1. Alamelu Krishnan, இந்தி எளிதில் எழுத படிக்க Stages I - II, Unique Media Integrators, Chennai, 2015 
   1. Alamelu Krishnan, கல்வியா செல்வமா, Thamarai Publications Pvt. Ltd., Chennai, 2014
   1. Alamelu Krishnan, ஒன்றுபட்டால் உண்டு வாழ்வு, Arivu Pathippagam, Chennai, 2010
-  1. Alamelu Krishnan, வாங்க தமிழ் பேசலாம் (Tamil Speaking through Hindi and English), Shabari Book House, Salem, 201X
+  1. Alamelu Krishnan, வாங்க தமிழ் பேசலாம் (Tamil Speaking through Hindi and English), Shabari Book House, Salem, 201X [[Buy]](https://routemybook.com/products_details/vanga-tamil-pesalam-9457)
  
 ### Hindi
 
